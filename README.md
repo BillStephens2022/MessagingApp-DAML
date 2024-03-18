@@ -2,6 +2,12 @@
 
 # create-daml-app
 
+Demo DAML (from DAML tutorial) built with DAML, React, TypeScript where users a can follow each other and send messages.  Messages can only be sent between users that follow each other.
+
+Screenshot of App:
+
+![app screenshot](/ui/public/Screenshot.png)
+
 See [documentation] for details.
 
 [documentation]: https://docs.daml.com/getting-started/installation.html
